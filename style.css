@@ -1,0 +1,44 @@
+body{
+    background-color: whitesmoke;
+}
+
+h5{
+    margin-top: 10px;
+}
+.container-md{
+    height: 150px;
+    border: solid gray 1px;
+    border-radius: 4px 4px 4px 4px;
+    background: url(header1.jpg.jpg) no-repeat center center fixed;
+    background-position-y: bottom; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: static;
+    opacity: 0.9;
+}
+
+.container{
+    background-color: rgb(252, 233, 195);
+    border: solid gray 1px;
+    border-radius: 4px 4px 4px 4px;
+
+}
+
+
+
+.form-header{
+    outline-color: rgb(121, 6, 6);
+    height: fit-content;
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 90px;    
+    
+}
+.form-control-sm{
+    width: 50px;
+    height: 20px;
+    
+}
+
